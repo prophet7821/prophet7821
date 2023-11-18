@@ -3,9 +3,9 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=prophet7821&label=Profile%20views&color=0e75b6&style=flat" alt="prophet7821" /> </p>
 
-- 🔭 I’m currently working on **Blockchain Development**
+- 🔭 I’m currently working on **Distributed Systems**
 
-- 🌱 I’m currently learning **Solidity and web3.0 frameworks**
+- 🌱 I’m currently learning **AWS**
 
 - 👯 I’m willing to collaborate on **good open source projects**
 
